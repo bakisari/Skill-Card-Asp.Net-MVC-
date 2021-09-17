@@ -1,3 +1,1 @@
-$ cat .gitattributes
-special-vendored-path/* linguist-vendored
-chsarp linguist-vendored=false
+Controllers_code.rb linguist-Controllers=true
