@@ -1,1 +1,3 @@
-[SkillsCodeFirstEF]/Scripts/ * linguist-vendored 
+$ cat .gitattributes
+special-vendored-path/* linguist-vendored
+chsarp linguist-vendored=false
